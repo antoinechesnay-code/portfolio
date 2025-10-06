@@ -1,5 +1,5 @@
 title: Antoine Chesnay
 logo: Uploads/Display_pic.jpg
-description: ""
-show_downloads: false
+#description:
+show_downloads: true
 theme: jekyll-theme-minimal
