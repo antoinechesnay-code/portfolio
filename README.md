@@ -33,7 +33,7 @@ and validation, ensuring data accuracy for financial calculations and reporting.
 
 ### Master’s Dissertation - Deep Reinforcement-Learning For Portfolio Optimisation
 
- | [Read Dissertation](Uploads/Dissertation.pdf)
+[View Project on GitHub](https://github.com/antoinechesnay-code/Deep-Reinforcement-Learning-_Portfolio-Optimisation-Dissertation-) | [Read Dissertation](Uploads/Dissertation.pdf)
 
 This dissertation investigates the integration of sentiment analysis with Deep Reinforcement Learning (DRL) for dynamic portfolio optimisation, using Proximal Policy Optimization (PPO) and Deep Deterministic Policy Gradient (DDPG) algorithms. While baseline DRL models successfully outperformed the S&P 500 benchmark, the addition of sentiment signals from financial news unexpectedly degraded performance across both architectures. The study identifies key challenges in sentiment integration, including irregular news coverage and negative sentiment bias, which caused the models to adopt overly conservative strategies. Ultimately, the research demonstrates that while DRL is a powerful tool for portfolio management, successful sentiment integration is highly complex and requires sophisticated data handling and model design to avoid counterproductive outcomes.
 
